@@ -1,0 +1,6 @@
+label.required:after {
+    content: "*";
+    font-weight: bold;
+    color: red;
+    padding-left: 2px;
+}
